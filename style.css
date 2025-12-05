@@ -140,3 +140,30 @@ max-width: 240px;
 font-size: 14px;
 line-height: 1.8;
 }
+
+.audio-block {
+background-color:#242424;
+display: flex;
+margin-top: 61px;
+}
+
+.audio-container {
+display: flex;
+align-items: center;
+justify-content: center;
+flex: 1;
+position: relative;
+padding: 0 34px;
+}
+
+.play-btn {
+display: flex;
+background-color:blue;
+width: 40px;
+height: 40px;
+align-items: center;
+justify-content: center;
+position: absolute;
+right: 0;
+bottom: 0;
+}
