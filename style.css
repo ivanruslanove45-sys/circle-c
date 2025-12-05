@@ -91,3 +91,12 @@ text-decoration: none;
 color: 0#1A1A1A;
 font-weight: bold;
 border-radius: 6px;}
+
+.header-info-block{
+    display:flex;
+    justify-content: space-between
+}
+
+.card-info{
+    max-width: 361px;
+}
